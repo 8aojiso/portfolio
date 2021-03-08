@@ -1,0 +1,48 @@
+
+h1 {
+    color:#333;
+    font-family: Verdana,sans-serif;
+    margin: 0px;
+}
+
+header{
+    background-color:#efefef;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    
+    
+}
+
+.container {
+    /* background-color: pink; */
+    width:400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right:auto;
+    display: flex;
+    align-items:center;
+
+}
+.icon {
+    /* background-color:skyblue ; */
+}
+.icon img{
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+.info {
+    /* background-color: tomato; */
+    margin-left: 32px;
+}
+.info h1 {
+    font-weight: normal;
+    font-size: 30px;
+    margin: 0px;
+}
+.info p{
+    margin: 0;
+}
